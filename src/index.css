@@ -1,0 +1,119 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.head{
+font-size: 15px;  
+}
+.hero{
+  margin-left: 55px;
+  margin-top: 120px;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+#aboutimg{
+  
+  height: 15rem;
+}
+.img1{
+  margin-top: 70px;
+  height: 14rem;
+  width: auto;
+  align-items: center;
+ 
+}
+.skillcolor{
+  margin-top: 50px;
+  background-color: rgb(254, 235, 245);
+}
+
+.skillhead{
+  margin-top: 10px;
+  text-align: center;
+}
+.skillfont{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+.portcolor{
+  background-color: rgb(255, 229, 233);
+}
+.left{
+  text-align: left;
+}
+.acolor{
+  background-color: rgb(252, 240, 252);
+}
+.ccolor{
+  background-color: rgba(255, 205, 226, 0.551)
+}
+.button1{
+  width: 27rem;
+}
+.conhead{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 55px;
+  
+}
+.login{
+  background-color: #E50000;
+  width: 30px;
+}
+.but{
+  width: 200%;
+}
+.b{
+width: auto;
+color:#D9D9D9;
+}
+.car{
+  width: 5px;
+}
+/* Carousal.css *//* Carousal.css */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  color: black; /* Set the color of arrows to black */
+}
+
+.custom-prev-icon,
+.custom-next-icon {
+  font-size: 30px; /* Adjust the font size to make the icons larger */
+  color: black; /* Set the color of arrows to black */
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  width: 10%; /* Adjust the width as needed */
+}
+
+.carousel-indicators li {
+  background-color: white; /* Set the background color of indicators to white */
+}
+/* Your stylesheet, e.g., styles.css */
+.circular-div {
+  margin-top: 25px;
+  margin-left: 100px;
+  width: 200px; /* Set the width of the circular div */
+  height: 200px; /* Set the height of the circular div */
+  background-color: #c20c1e; /* Set the danger color */
+  border-radius: 50%; /* Make it circular */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(255, 255, 255); /* Set the text color to white */
+  font-weight: bold; /* Optionally, set font weight for bold text */
+}
+
+/* Additional styles as needed */
+.s{
+  font-size: 555px;
+  margin-left: 100px;
+}
+.get{
+  width: 200px;
+  height: 60px;
+}
+.ab{
+  text-align: left;
+}
